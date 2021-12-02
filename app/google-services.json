@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "422311069038",
+    "project_id": "quiz-40385",
+    "storage_bucket": "quiz-40385.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422311069038:android:abc1065c0a824a1ca52d7f",
+        "android_client_info": {
+          "package_name": "com.kinoQuiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422311069038-2sckcc4gpg97ddq7tbafiih9k8o196m5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kinoQuiz",
+            "certificate_hash": "df2d20c4afbac419551d33bc1378bfa40be7e298"
+          }
+        },
+        {
+          "client_id": "422311069038-6puh46nlj16arsif7vf3dsnlk3sh7lpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr8vbOqI0IB6Z2P_EyWimhfr9fwo7DAiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422311069038-6puh46nlj16arsif7vf3dsnlk3sh7lpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
